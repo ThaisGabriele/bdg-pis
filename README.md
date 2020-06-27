@@ -103,11 +103,11 @@ zeals	1
 
 ### Questão 3. Quantos termos únicos existem?
 
-00000 : 2516 termos unicos
-00001 : 2567 termos unicos
-00002 : 2438 termos unicos
-00003 : 2520 termos unicos
-00004 : 2623 termos unicos
+* 00000 : 2516 termos unicos
+* 00001 : 2567 termos unicos
+* 00002 : 2438 termos unicos
+* 00003 : 2520 termos unicos
+* 00004 : 2623 termos unicos
 
 **Modificando a Versão Original**
 
